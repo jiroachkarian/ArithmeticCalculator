@@ -17,7 +17,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>{children}</body>
-      <p>JACK SPARROW</p>
+      <p> captain JACK SPARROW</p>
     </html>
   );
 }
